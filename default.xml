@@ -3,7 +3,7 @@
 
 
   <remote  name="aosp"
-           fetch="https://android-review.googlesource.com/" />
+           fetch="https://android.googlesource.com/" />
   <remote  name="moto"
            fetch="git://github.com/MotorolaMobilityLLC" />
   <remote  name="odex"
