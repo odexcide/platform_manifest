@@ -7,8 +7,7 @@
   <remote  name="moto"
            fetch="git://github.com/MotorolaMobilityLLC" />
   <remote  name="odex"
-           fetch=".."
-           review="git://github.com/odexcide" />
+           fetch="git://github.com/odexcide" />
            
   <default revision="master"
            remote="aosp"
